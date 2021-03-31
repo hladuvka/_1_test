@@ -2,5 +2,5 @@
 
 ## subtitle
 
-- [link to index](index.html)
+- [link to index](index_by_github.html)
 - [link to other markdown](tu.md)
